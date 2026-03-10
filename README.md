@@ -18,6 +18,7 @@ Interní systém pro řízení výroby, kalkulaci a cenotvorbu zakázkového ši
 - Google Sheets
 - Google Apps Script
 - JavaScript / HTML
+- Lightdash (BI dashboardy)
 - API integrace
 
 ## Business přínos
