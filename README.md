@@ -4,7 +4,7 @@ Interní systém pro řízení výroby, kalkulaci a cenotvorbu zakázkového ši
 
 ## Projekt řeší následující oblasti
 - digitalizaci výrobního procesu
-- automatizaci výpočtů pro šití zakázkových produktů
+- automatizaci výpočtů spotřeby materiálu a cenotvorby šitých výrobků
 - analýzu produktového portfolia
 
 ## Co jsem vytvořil
