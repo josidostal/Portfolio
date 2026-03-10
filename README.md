@@ -26,6 +26,6 @@ Interní systém pro řízení výroby, kalkulaci šití a analýzu produktovéh
 - eliminace chyb při výrobě
 - datové podklady pro plánování sortimentu a výroby
 
-![Dashboard](Ručníky dashboard.png)
-![Kalkulátor šití](kalkulator.png)
-![Systém řízení výroby](vyroba.png)
+![Výrobní dashboard](Dashboard/Ručníky%20dashboard.png)
+![Kalkulátor šití](cenovy_sici_kalkulator/Kalkulátor%20šití.png)
+![Výroba](digitalizace_vyroby/Výroba.png)
