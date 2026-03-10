@@ -50,5 +50,6 @@ Vybrané screenshoty z interních nástrojů. Některé dashboardy a části sys
 
 Další screenshoty projektu jsou dostupné ve složkách repozitáře:
 
+- 📊 [Dashboardy](Dashboard/)
 - 🧵 [Kalkulátor šití](cenovy_sici_kalkulator/)
 - 🏭 [Systém řízení výroby](digitalizace_vyroby/)
