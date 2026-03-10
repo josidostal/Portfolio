@@ -45,8 +45,10 @@ Vybrané screenshoty z interních nástrojů. Některé dashboardy a části sys
 
 ## Další ukázky
 
-Další screenshoty projektu jsou dostupné ve složkách repozitáře:
+Další screenshoty projektu jsou dostupné přímo v GitHub repozitáři:
 
-- 📊 [Dashboardy](https://github.com/josidostal/Portfolio/tree/main/Dashboard)
-- 🧵 [Kalkulátor šití](https://github.com/josidostal/Portfolio/tree/main/cenovy_sici_kalkulator)
-- 🏭 [Systém řízení výroby](https://github.com/josidostal/Portfolio/tree/main/digitalizace_vyroby)
+<ul>
+  <li>📊 <a href="https://github.com/josidostal/Portfolio/tree/main/Dashboard">Dashboardy</a></li>
+  <li>🧵 <a href="https://github.com/josidostal/Portfolio/tree/main/cenovy_sici_kalkulator">Kalkulátor šití</a></li>
+  <li>🏭 <a href="https://github.com/josidostal/Portfolio/tree/main/digitalizace_vyroby">Systém řízení výroby</a></li>
+</ul>
