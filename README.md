@@ -1,8 +1,8 @@
 # Automatizace výrobních procesů a datová analytika
 
-Interní systém pro řízení výroby, kalkulaci šití a analýzu produktového portfolia ve firmě Darré.
+Interní systém pro řízení výroby, kalkulaci a cenotvorbu zakázkového šití a analýzu produktového portfolia ve firmě Darré.
 
-## Projekty řeší
+## Projekt řeší následující oblasti
 - digitalizaci výrobního procesu
 - automatizaci výpočtů pro šití zakázkových produktů
 - analýzu produktového portfolia
@@ -27,9 +27,12 @@ Interní systém pro řízení výroby, kalkulaci šití a analýzu produktovéh
 - datové podklady pro plánování sortimentu a výroby
 
 ## Ukázky systémů
+
 ### Dashboardy – analýza prodejů ručníků
 ![Výrobní dashboard](Dashboard/Ručníky%20dashboard.png)
+
 ### Kalkulátor šití – výpočet spotřeby látky
 ![Kalkulátor šití](cenovy_sici_kalkulator/Kalkulátor%20šití.png)
+
 ### Systém digitalizace výroby – evidence výrobních zakázek
 ![Výroba](digitalizace_vyroby/Výroba.png)
