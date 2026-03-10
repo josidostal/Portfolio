@@ -28,6 +28,7 @@ Interní systém pro řízení výroby, kalkulaci a cenotvorbu zakázkového ši
 - datové podklady pro plánování sortimentu a výroby
 
 ## Ukázky systémů
+Vybrané screenshoty z interních nástrojů. Některé dashboardy a části systému nejsou zveřejněny z důvodu citlivých firemních dat.
 
 ### Dashboardy – analýza prodejů ručníků
 ![Výrobní dashboard](Dashboard/Ručníky%20dashboard.png)
