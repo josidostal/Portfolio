@@ -2,7 +2,7 @@
 
 Interní systém pro řízení výroby, kalkulaci šití a analýzu produktového portfolia ve firmě Darré.
 
-## Projekt řeší
+## Projekty řeší
 - digitalizaci výrobního procesu
 - automatizaci výpočtů pro šití zakázkových produktů
 - analýzu produktového portfolia
