@@ -44,3 +44,11 @@ Vybrané screenshoty z interních nástrojů. Některé dashboardy a části sys
 
 ### Systém digitalizace výroby – evidence výrobních zakázek
 ![Výroba](digitalizace_vyroby/Výroba.png)
+
+
+## Další ukázky
+
+Další screenshoty projektu jsou dostupné ve složkách repozitáře:
+
+- 🧵 [Kalkulátor šití](cenovy_sici_kalkulator/)
+- 🏭 [Systém řízení výroby](digitalizace_vyroby/)
