@@ -1,6 +1,6 @@
 # Automatizace výrobních procesů a datová analytika
 
-Interní systém pro řízení výroby, kalkulaci a cenotvorbu šitých výrobků, analýzu produktového portfolia a plánování personálních kapacit v e-shop firmě.
+Interní systém pro řízení výroby, kalkulaci a cenotvorbu šitých výrobků, analýzu produktového portfolia a plánování personálních kapacit v e-commerce firmě.
 
 ## Projekt řeší následující oblasti
 - digitalizaci výrobního procesu
