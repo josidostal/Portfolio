@@ -1,4 +1,4 @@
-# Automatizace výrobních procesů a datová analytika
+# Automatizace provozních procesů, výroby a datová analytika
 
 Interní systém pro řízení výroby, kalkulaci a cenotvorbu šitých výrobků, analýzu produktového portfolia a plánování personálních kapacit v e-commerce firmě.
 
