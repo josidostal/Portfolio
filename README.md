@@ -48,7 +48,7 @@ Vybrané screenshoty z interních nástrojů. Některé dashboardy a části sys
 
 ![Výroba](digitalizace_vyroby/Výroba.png)
 
-### 4) Dashboard řízení kapacit skladu
+### 4) Dashboard pro plánování a řízení kapacit skladu
 
 ![Denní plán skladu](dynamicky_dashboard/Skladovy_dashboard1.jpeg)
 
