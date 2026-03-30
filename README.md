@@ -47,7 +47,7 @@ Vybrané screenshoty z interních nástrojů. Některé dashboardy a části sys
 
 ### Dashboard řízení kapacit skladu
 Interní nástroj pro plánování směny, rozdělení pracovníků mezi picking, balení, střihání, příjem a výrobní činnosti. Systém automaticky vyhodnocuje vytížení jednotlivých aktivit, odhaluje bottlenecky, počítá očekávané dokončení a navrhuje přesun pracovníků mezi činnostmi.
-![Denní plán skladu](skladovy_dashboard/denni-plan.png)
+![Denní plán skladu](Skladovy_dashboard1)
 
 
 ## Další ukázky
