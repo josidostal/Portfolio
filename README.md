@@ -1,6 +1,6 @@
 # Automatizace výrobních procesů a datová analytika
 
-Interní systém pro řízení výroby, kalkulaci a cenotvorbu šitých výrobků, analýzu produktového portfolia a plánování personálních kapacit ve firmě Darré.
+Interní systém pro řízení výroby, kalkulaci a cenotvorbu šitých výrobků, analýzu produktového portfolia a plánování personálních kapacit v e-shop firmě.
 
 ## Projekt řeší následující oblasti
 - digitalizaci výrobního procesu
@@ -47,13 +47,11 @@ Vybrané screenshoty z interních nástrojů. Některé dashboardy a části sys
 
 ### Dashboard řízení kapacit skladu
 Interní nástroj pro plánování směny, rozdělení pracovníků mezi picking, balení, střihání, příjem a výrobní činnosti. Systém automaticky vyhodnocuje vytížení jednotlivých aktivit, odhaluje bottlenecky, počítá očekávané dokončení a navrhuje přesun pracovníků mezi činnostmi.
-
 ![Denní plán skladu](skladovy_dashboard/denni-plan.png)
-![Historie skladu](skladovy_dashboard/historie.png)
-![Nastavení skladu](skladovy_dashboard/nastaveni.png)
+
 
 ## Další ukázky
 
-Kompletní screenshoty projektu a další ukázky systému jsou dostupné v repozitáři na GitHubu:
+Kompletní screenshoty projektu a další ukázky systémů jsou dostupné v repozitáři na GitHubu:
 
 [Otevřít celý repozitář](https://github.com/josidostal/Portfolio)
